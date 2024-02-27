@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My PGP Key:
+- [PGP Key](https://keybase.io/derrickkhoo/pgp_keys.asc?fingerprint=586f2d5921358f832e0795a7bb5e4cacc54dc220)
+- Fingerprint: `586F` `2D59` `2135` `8F83` `2E07` `95A7` `BB5E` `4CAC` `C54D` `C220`
+
 <!--
 **drkkjh/drkkjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
